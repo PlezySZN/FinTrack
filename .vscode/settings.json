@@ -1,0 +1,5 @@
+{
+  "git.ignoreLimitWarning": true,
+  "cSpell.words": ["callout", "Konqueror", "noselect"],
+  "livePreview.defaultPreviewPath": "/index.html"
+}

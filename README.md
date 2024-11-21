@@ -39,3 +39,9 @@ Open index.html in your browser to view the static site.
 Email: hsantiaggoo@gmail.com
 LinkedIn: Harrys Santiago Santana
 © 2024 FinTrack (Static Concept). All rights reserved.
+
+## 📝 License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this code for personal or commercial purposes.
+
+See the full license text in the [LICENSE](LICENSE) file.
